@@ -46,9 +46,9 @@ with open(os.path.join(root, 'README.md'), 'r', encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='SciencePlots',
-    version='1.0.9',
-    author="John Garrett",
+    name='SciencePlotStyles',
+    version='1.0.9.1',
+    author="John Garrett | custom version by Joep Storm",
     author_email="garrettj403@gmail.com",
     description="Format Matplotlib for scientific plotting",
     long_description=long_description,
